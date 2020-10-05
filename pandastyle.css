@@ -15,11 +15,13 @@ body{
     margin: 40px auto;
     padding:20px;
     border: dotted 30px darkgreen;
+  
 
 }
 
 p{
     border:solid 2px darkmagenta;
     padding: 15px;
+    border-radius: 25px;
 }
 
