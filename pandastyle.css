@@ -16,6 +16,7 @@ body{
 
 h1,h2{
     font-size:60px;
+    color: green;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    text-shadow: 8px 5px 6px darkorange
+    text-shadow: 8px 5px 20px green
 }
