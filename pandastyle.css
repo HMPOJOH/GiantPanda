@@ -14,6 +14,9 @@ body{
     margin: 0px auto;
     padding:40px;
     background-color: white;
+    border-left: solid 25px pink;
+    border-right: solid 25px pink;
+
 
 
 }
