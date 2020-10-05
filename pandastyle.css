@@ -18,12 +18,7 @@ body{
 
 }
 
-div{
-    
-   /* border-color: darkgreen;
-    border-width: 30px;*/
-
-
-   
-    
+p{
+    border:solid 2px darkmagenta;
 }
+
