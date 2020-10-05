@@ -1,4 +1,6 @@
-/*body{background-color: crimson;}*/
+ /*
+    Basically, a margin is the space around an element and padding refers to the space between an element and the content inside it. The margin falls outside two adjacent element
+    */
 
 img{
     width: 100%;
@@ -11,5 +13,16 @@ body{
 .column {
     width: 600px;
     margin: 40px auto;
+    padding:20px;
 
+}
+
+div{
+    border: dotted 30px darkgreen;
+   /* border-color: darkgreen;
+    border-width: 30px;*/
+
+
+   
+    
 }
