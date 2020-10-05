@@ -14,11 +14,12 @@ body{
     width: 600px;
     margin: 40px auto;
     padding:20px;
+    border: dotted 30px darkgreen;
 
 }
 
 div{
-    border: dotted 30px darkgreen;
+    
    /* border-color: darkgreen;
     border-width: 30px;*/
 
