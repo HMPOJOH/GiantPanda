@@ -11,7 +11,10 @@ body{
 
 .column {
     width: 600px;
-    margin: 40px auto;
+    margin: 0px auto;
+    padding:40px;
+    background-color: white;
+
 
 }
 
