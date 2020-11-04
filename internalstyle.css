@@ -9,7 +9,7 @@ width:100%;
     .container .picture{
         float:right;
         width:100px;
-        margin-top:-20px;
+        margin-top:-10px;
         }
 
 body {
@@ -19,6 +19,7 @@ body {
 
 .jumbotron{
     background-color: #fff;
+    height:90%;
 
 }
 
