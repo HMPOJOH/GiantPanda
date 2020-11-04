@@ -10,9 +10,11 @@
 "integrity="sha384-
 ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"crossorigin="ano
 nymous">
-
 <link rel="stylesheet" href="internalstyle.css">
+<<<<<<< HEAD
+=======
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+>>>>>>> Lemon
 </head>
 <body>
     <div class="container">
@@ -43,69 +45,24 @@ nymous">
     </div>
 </nav>
 <!--Menu ends-->
-<!--Experience Components-->
-<br>
-
-    <div class="row" >
-        <div class="col-sm">
-
-<div class="card" style="width: 30rem;">
-    <img src="work.png" class="card-img-top" alt="...">
-    <div class="card-body">
-        <h5 class="card-title">Employment history</h5>
-        <p class="card-text">Current and previous positions</p>
-        <a href="work.html" class="btn btn-primary">Work details</a>
-    </div>
+<!--Starter-->
+<div class="jumbotron">
+    <h1 class="display-4"></h1>
+    <p class="lead">Pontus Johansson</p>
+    <hr class="my-4">
+    <p>A customer driven product developer. Perfectly matched in an agile environment, with the big picture in mind. Passionate focus on customer value both by creating innovations as well as doing incremental improvements. Sees the value of collaboration where one plus one can be three or even more.</p>
+    <a class="btn btn-primary btn-lg" href="experience.html" role="button">My experience</a>
 </div>
-        </div>
-        <div class="col-sm">
-
-<div class="card" style="width: 30rem;">
-    <img src="education.png" class="card-img-top" alt="..." style="background-color: darkgrey;">
-    <div class="card-body" >
-        <h5 class="card-title">Education history</h5>
-        <p class="card-text">Previous graduations</p>
-        <a href="hitchhiker.html" class="btn btn-primary">Education Details</a>
-    </div>
-</div>
-        </div>
-        <div class="col-sm">
+<!--Starter ends-->
 
 
-        <div class="card" style="width: 30rem;">
-    <img src="skills.png" class="card-img-top" alt="...">
-    <div class="card-body">
-        <h5 class="card-title">Skills</h5>
-        <p class="card-text">What I can offer</p>
-        <a href="pippi.html" class="btn btn-primary">Skills Details</a>
-    </div>
-</div>
 
-        </div>
-
-        <div class="col-sm">
-
-            <div class="card" style="width: 30rem;">
-                <img src="interests.png" class="card-img-top" alt="...">
-                <div class="card-body">
-                    <h5 class="card-title">Interests</h5>
-                    <p class="card-text">Who am Pontus?</p>
-                    <a href="hitchhiker.html" class="btn btn-primary">Interests details</a>
-                </div>
-            </div>
-                    </div>
 
 
     </div>
-</div>
-
-<!--Experience components ends-->
 
 
 
-
-
-   
 
 
  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
