@@ -12,10 +12,12 @@ width:100%;
         margin-top:-10px;
         }
 
-li{
-    font-size:8px;
-
-}
+        .list-group-item.active {
+            font-size:12px;
+            background-color: darkslategrey;
+            border-color: darkslategrey;
+        
+        }
 
 body {
     background-color: #e9ecef;
