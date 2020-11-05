@@ -7,12 +7,12 @@ body {
 
 
 .list-group-item {
-    font-size:10px;
+    font-size:12px;
 
 }
 
 .list-group-item.active {
-    font-size:12px;
+    font-size:14px;
     background-color: darkslategrey;
     border-color: darkslategrey;
 

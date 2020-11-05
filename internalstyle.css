@@ -13,7 +13,7 @@ width:100%;
         }
 
         .list-group-item.active {
-            font-size:12px;
+            font-size:14px;
             background-color: darkslategrey;
             border-color: darkslategrey;
         
