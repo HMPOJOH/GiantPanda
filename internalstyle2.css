@@ -6,4 +6,19 @@ body {
 
 
 
+li{
+    font-size:10px;
+
 }
+
+.list-group-item.active {
+    font-size:12px;
+    background-color: darkslategrey;
+    border-color: darkslategrey;
+
+}
+
+.btn-link {
+    font-weight: 400;
+    color: #041527;
+    text-decoration: none;
